@@ -6,7 +6,7 @@
 		"sourceMap": false,
 		"allowJs": true,
 		"resolveJsonModule": true,
-		"outDir": "../out/vs",
+		"outDir": "build/lib",
 		"types": [
 			"mocha",
 			"semver",

@@ -174,6 +174,7 @@
     "gulp-postcss": "^9.0.0",
     "gulp-rename": "^1.2.0",
     "gulp-replace": "^0.5.4",
+    "gulp-shell": "^0.8.0",
     "gulp-sourcemaps": "^3.0.0",
     "gulp-svgmin": "^4.1.0",
     "gulp-untar": "^0.0.7",
@@ -208,7 +209,7 @@
     "ts-loader": "^9.4.2",
     "ts-node": "^10.9.1",
     "tsec": "0.2.7",
-    "typescript": "^5.4.0-dev.20231116",
+    "typescript": "^5.8.3",
     "typescript-formatter": "7.1.0",
     "util": "^0.12.4",
     "vscode-nls-dev": "^3.3.1",
@@ -227,5 +228,18 @@
   },
   "optionalDependencies": {
     "windows-foreground-love": "0.5.0"
+  },
+  "packageManager": "yarn@1.22.19+sha512.ff4579ab459bb25aa7c0ff75b62acebe576f6084b36aa842971cf250a5d8c6cd3bc9420b22ce63c7f93a0857bc6ef29291db39c3e7a23aab5adfd5a4dd6c5d71",
+  "contributes": {
+    "commands": [
+      {
+        "command": "wingmanai.openconfig",
+        "title": "Open Wingman Settings",
+        "icon": {
+          "light": "media/wingman-logo-light.png",
+          "dark": "media/wingman-logo-dark.png"
+        }
+      }
+    ]
   }
 }
