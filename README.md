@@ -1,8 +1,6 @@
 
 
----
 
-````markdown
 # 💻🔥 VS Code Reinvented with Built-in Wingman AI — Native AI-Powered IDE Experience
 
 What if your IDE didn't *just* support AI — what if it was **built with it**?
