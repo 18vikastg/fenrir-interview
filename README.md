@@ -11,6 +11,17 @@ This project is a **native integration of [Wingman AI](https://github.com/Russel
 
 ---
 
+## 📸 Screenshots
+
+### ✅ Wingman AI integrated in VS Code (Native)
+
+![Screenshot 1](https://github.com/18vikastg/vscode-wingman-native/raw/main/Screenshot%20from%202025-06-19%2023-00-19.png)
+
+### ✅ Wingman Commands Functional
+
+![Screenshot 2](https://github.com/18vikastg/vscode-wingman-native/raw/main/Screenshot%20from%202025-06-19%2023-03-54.png)
+
+
 ## ✨ Key Highlights
 
 ✅ Wingman AI is **baked in** — no user install, no uninstall, no UI clutter  
