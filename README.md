@@ -143,7 +143,7 @@ See [`upgrade-guide.md`](./upgrade-guide.md) for full steps.
 ## 🧑‍💻 Author
 
 **Vikas T G**
- Full-Stack Developer | OSS Enthusiast
+ |Full-Stack Developer | OSS Enthusiast
 🔗 [GitHub](https://github.com/18vikastg) • 📬 [Email](mailto:vikastg2000@gmail.com)
 
 ---
