@@ -96,6 +96,11 @@ tar -czvf vscode-custom-linux.tar.gz .build/linux-x64/*
 * Wingman’s intelligent composer in action
 * Hidden extension status proven
 
+
+
+📽️ [Click here to watch the demo](https://github.com/18vikastg/vscode-wingman-native/raw/main/simplescreenrecorder-2025-06-18_21.14.17.mkv)
+
+
 ---
 
 ## 📁 Repo Structure
