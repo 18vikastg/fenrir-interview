@@ -127,7 +127,7 @@ See [`upgrade-guide.md`](./upgrade-guide.md) for full steps.
 ## 🧑‍💻 Author
 
 **Vikas T G**
-CSE Student | Full-Stack Developer | OSS Enthusiast
+ Full-Stack Developer | OSS Enthusiast
 🔗 [GitHub](https://github.com/18vikastg) • 📬 [Email](mailto:vikastg2000@gmail.com)
 
 ---
@@ -145,9 +145,7 @@ MIT License
 
 > 🧬 AI isn't just a feature — it's infrastructure. This is the future of IDEs. Build with it.
 
-```
 
----
 
 
 
